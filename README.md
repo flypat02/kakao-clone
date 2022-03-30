@@ -1,3 +1,3 @@
 # kakao-clone
 
-nice to meet you~
+css and html are so much fun
